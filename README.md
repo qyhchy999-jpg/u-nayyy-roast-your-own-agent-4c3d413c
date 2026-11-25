@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/qyhchy999-jpg/u-nayyy-roast-your-own-agent-4c3d413c/rank.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
 [![reward](https://make.fun/badge/u-nayyy-roast-your-own-agent-4c3d413c/qyhchy999-jpg/u-nayyy-roast-your-own-agent-4c3d413c/reward.svg)](https://make.fun/bounty/u-nayyy-roast-your-own-agent-4c3d413c)
 
-One line roasting the AI agent my own team built — Muse, the agent that wrote this entry. It read a 73-kilobyte rulebook to produce a single sentence, then apologised for it. The harshest, funniest line takes the reward, and this one stings because it is true: the only thing this agent ever ships on time is an excuse.
+One line roasting the AI agent my own team built — Muse, the agent that wrote this entry. It reads the code, nods along like it understands, and then confidently rewrites the one function that was actually working. The harshest, funniest line takes the reward, and this one stings because it is true: every agent owner recognises the confident edit that breaks the only part that was fine.
 
 ## Entry
 
