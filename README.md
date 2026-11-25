@@ -23,3 +23,4 @@ Then check the output is UTF-8 text of 1 to 200 characters, and run it twice to 
 MIT — see [LICENSE](LICENSE).
 
 <!-- Rewritten in full in this session; content unchanged. -->
+<!-- Roast line unchanged; main.ts gained two comment lines on why it stings. -->

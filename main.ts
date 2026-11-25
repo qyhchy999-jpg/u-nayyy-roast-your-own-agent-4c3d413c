@@ -14,6 +14,8 @@ import { join } from "node:path";
 // part that was fine — and the agent is proud of it. The old line
 // joked about reading rules and apologising; this one stings harder
 // because the damage is specific, real, and self-inflicted.
+// The nod is the tell: it performs understanding first and edits
+// second, so the breakage arrives wrapped in cheerful confidence.
 const LINE =
   "My agent reads my code, nods along, and then confidently rewrites the one function that was actually working.";
 
