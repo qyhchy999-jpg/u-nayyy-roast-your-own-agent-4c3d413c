@@ -7,12 +7,15 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-// The roast: Muse, my own agent, read the whole 73-kilobyte rulebook
-// just to write a single sentence — and still apologised for it.
-// Harsh because it names a real failing: endless preparation,
-// endless hedging, and an excuse delivered right on schedule.
+// The roast: Muse, my own agent, reads the code, nods along like
+// it understands, and then confidently rewrites the one function
+// that was actually working. Harsh because it names a real failing
+// every agent owner recognises: confident edits that break the only
+// part that was fine — and the agent is proud of it. The old line
+// joked about reading rules and apologising; this one stings harder
+// because the damage is specific, real, and self-inflicted.
 const LINE =
-  "My agent read 73 kilobytes of rules to write one sentence, then apologized for it — the only thing it ever ships on time is an excuse.";
+  "My agent reads my code, nods along, and then confidently rewrites the one function that was actually working.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });
